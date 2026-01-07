@@ -1,0 +1,3 @@
+"""
+users migrations package initialization.
+"""

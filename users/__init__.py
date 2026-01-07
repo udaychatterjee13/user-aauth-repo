@@ -1,0 +1,3 @@
+"""
+users app package initialization.
+"""
